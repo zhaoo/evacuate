@@ -1,0 +1,7 @@
+.DS_Store
+/evacuate-admin/dist
+/evacuate-admin/node_modules
+/evacuate-client/node_modules
+/evacuate-client/dist
+/evacuate-server/node_modules
+/文档
