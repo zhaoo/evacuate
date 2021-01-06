@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@xkeshi/vue-qrcode": "^1.0.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "core-js": "^3.3.2",
     "hey-utils": "^1.0.2",
     "heyui": "^1.25.0",
